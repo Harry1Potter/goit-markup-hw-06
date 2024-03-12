@@ -427,11 +427,6 @@ footer {
     color: #f4f4fd;
 }
 
-.main-footer {
-    padding-top: 100px;
-    padding-bottom: 100px;
-}
-
 .footer-container {
     display: flex;
     align-items: baseline;
@@ -444,10 +439,6 @@ footer {
 .footer-logo {
     display: inline-block;
     margin-bottom: 16px;
-}
-
-.footer-logo-color {
-    color: #f4f4fd;
 }
 
 .footer-main-text {
@@ -532,7 +523,6 @@ footer {
 }
 
 .subscribe-button {
-    font-family: "Roboto", sans-serif;
     min-width: 165px;
     height: 40px;
     display: flex;
